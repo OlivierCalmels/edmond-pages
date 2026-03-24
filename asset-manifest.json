@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.css": "/edmond-pages/static/css/main.e30d8f1b.css",
-    "main.js": "/edmond-pages/static/js/main.554f346c.js",
-    "static/js/927.71e63d76.chunk.js": "/edmond-pages/static/js/927.71e63d76.chunk.js",
-    "static/media/system.svg": "/edmond-pages/static/media/system.80c1c9b94f9d9a3b0cb449cb90f0fbe0.svg",
-    "static/media/light.svg": "/edmond-pages/static/media/light.e01d9c13d6cd2347ef78a43ded9f107c.svg",
-    "static/media/dark.svg": "/edmond-pages/static/media/dark.1bf01e72d68ddaae5777b153a8431587.svg",
+    "main.css": "/edmond-pages/static/css/main.90b7e1c8.css",
+    "main.js": "/edmond-pages/static/js/main.1929723b.js",
     "index.html": "/edmond-pages/index.html",
-    "main.e30d8f1b.css.map": "/edmond-pages/static/css/main.e30d8f1b.css.map",
-    "main.554f346c.js.map": "/edmond-pages/static/js/main.554f346c.js.map",
-    "927.71e63d76.chunk.js.map": "/edmond-pages/static/js/927.71e63d76.chunk.js.map"
+    "main.90b7e1c8.css.map": "/edmond-pages/static/css/main.90b7e1c8.css.map",
+    "main.1929723b.js.map": "/edmond-pages/static/js/main.1929723b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e30d8f1b.css",
-    "static/js/main.554f346c.js"
+    "static/css/main.90b7e1c8.css",
+    "static/js/main.1929723b.js"
   ]
 }
