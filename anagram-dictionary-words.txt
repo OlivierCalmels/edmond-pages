@@ -56,6 +56,7 @@ poisson
 riviere
 serpent
 trousse
+voilier
 voiture
 ballon
 banane
