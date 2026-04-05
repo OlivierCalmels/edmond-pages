@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/edmond-pages/static/css/main.a0a6d795.css",
-    "main.js": "/edmond-pages/static/js/main.cb3e7fc4.js",
+    "main.css": "/edmond-pages/static/css/main.f501782a.css",
+    "main.js": "/edmond-pages/static/js/main.eee65898.js",
     "index.html": "/edmond-pages/index.html",
-    "main.a0a6d795.css.map": "/edmond-pages/static/css/main.a0a6d795.css.map",
-    "main.cb3e7fc4.js.map": "/edmond-pages/static/js/main.cb3e7fc4.js.map"
+    "main.f501782a.css.map": "/edmond-pages/static/css/main.f501782a.css.map",
+    "main.eee65898.js.map": "/edmond-pages/static/js/main.eee65898.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0a6d795.css",
-    "static/js/main.cb3e7fc4.js"
+    "static/css/main.f501782a.css",
+    "static/js/main.eee65898.js"
   ]
 }
